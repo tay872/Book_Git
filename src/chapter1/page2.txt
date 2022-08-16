@@ -1,0 +1,7 @@
+
+
+Testing Git
+
+On page 2
+
+Just edit page 2 after upload to git hub.
